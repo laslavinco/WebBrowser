@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>C:/Users/Akshay/Downloads/material-design-icons-master/material-design-icons-master/action/1x_web/ic_check_circle_black_18dp.png</file>
+    <file>C:/Users/Akshay/Downloads/material-design-icons-master/material-design-icons-master/action/1x_web/ic_highlight_off_black_18dp.png</file>
+    <file>C:/Users/Akshay/Downloads/material-design-icons-master/material-design-icons-master/action/1x_web/ic_home_black_18dp.png</file>
+    <file>C:/Users/Akshay/Downloads/material-design-icons-master/material-design-icons-master/navigation/1x_web/ic_arrow_forward_black_18dp.png</file>
+    <file>C:/Users/Akshay/Downloads/material-design-icons-master/material-design-icons-master/action/drawable-mdpi/ic_autorenew_black_18dp.png</file>
+    <file>C:/Users/Akshay/Downloads/material-design-icons-master/material-design-icons-master/navigation/1x_web/ic_arrow_back_black_18dp.png</file>
+    <file>C:/Users/Akshay/Downloads/material-design-icons-master/material-design-icons-master/action/drawable-mdpi/ic_language_black_36dp.png</file>
+  </qresource>
+</RCC>
